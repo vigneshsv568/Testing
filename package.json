@@ -1,0 +1,29 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshsv568/Testing.git"
+  },
+  "author": "vignesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vigneshsv568/Testing/issues"
+  },
+  "homepage": "https://github.com/vigneshsv568/Testing#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "gravator": "^1.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.13",
+    "request": "^2.88.2"
+  }
+}
